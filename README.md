@@ -19,4 +19,4 @@ This is a simple To-Do List application that allows users to add, complete, and 
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/DavidMalkhasyan/To-Do-List.git
